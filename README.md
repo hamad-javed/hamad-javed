@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Hamad Javed
 
-<!--
-**hamad-javed/hamad-javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 📍 England
+- 💡 Software Developer | Open Source Enthusiast
+- 👨‍💻 Passionate about building cool and useful projects
+- 🚀 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, Express, FastAPI
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamad-javed)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/hamadjaved69)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:hamadjaved69@gmail.com)
+
+---
+
+### 🏆 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamad-javed&theme=tokyonight)
+
+---
+
+Thanks for visiting my profile! 😊
