@@ -17,8 +17,6 @@ Currently exploring the intersection of developer tooling and open source.
 
 ### 🔨 What I'm Working On
 
-🔀 **[GitFlip](https://github.com/hamad-javed/gitflip)** — A VS Code extension for managing multiple GitHub accounts. Switch between SSH keys, git configs, and tokens without the headache.
-
 📊 **[Reddit Trend Detector](https://github.com/hamad-javed/reddit-trend-detector)** — A Python tool that surfaces trending topics and patterns from Reddit in real time.
 
 ---
